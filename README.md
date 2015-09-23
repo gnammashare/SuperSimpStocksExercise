@@ -5,4 +5,4 @@ The trades are stored in a sorted list ordered by timestamp, such that trade loo
 
 
 Author: Sachi Arafat
-Time: 40min for main work, 2hrs for exception handling and efficiency testing (efficiency code commented out in tester file) 
+Time: 40min for main work, 2hrs for exception and test-designs (efficiency testing code commented out in tester file) 
